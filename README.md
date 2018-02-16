@@ -17,4 +17,6 @@ The goal is to create an Score Keeper app which gives a user the ability to keep
 Screen 1                          |Screen2                    
 :--------------------------------:|:--------------------------------:
 ![](screen1.png)                  |![](project2.png) 
-
+Screen 3                                            
+:--------------------------------:
+![](device-2017-12-06-031113.png)                  
