@@ -14,7 +14,7 @@ The goal is to create an Score Keeper app which gives a user the ability to keep
 
 ## Final Output - Screenshots
 
-Screen 1                          
-:--------------------------------:
-![](screen1.png)  
+Screen 1                          |Screen2                    
+:--------------------------------:|:--------------------------------:
+![](screen1.png)                  |![](project2.png) 
 
